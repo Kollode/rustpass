@@ -1,0 +1,10 @@
+[package]
+name = "rustpass"
+version = "0.1.0"
+authors = ["Patrick Kollodzik <patrick.kollodzik@gmail.com>"]
+
+[dependencies]
+clap = "2.29"
+byteorder = "1.2.1"
+rust-crypto = "0.2.36"
+rpassword = "1.0.0"
